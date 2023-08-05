@@ -3,6 +3,10 @@
 
 # Here cooking recipes are created as flowcharts. For each recipe there should be a folder with an english name. In this folder is a readme file in which you can find the source of the recipe as link and per language there should be a subfolder with a short language-identifyer as name and inside a draw.io and an image file in which you can see the flowchart of the recipe. Feel free to fork and add new recipes.
 
+# LinkedIn
+
+https://linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=christian-müller-zieroth-a2306b191
+
 # Tips
 
 Christian:
