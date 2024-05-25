@@ -10,6 +10,8 @@
 
 <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="c.mz" data-color="#40DCA5" data-emoji="🥗"  data-font="Cookie" data-text="Buy me a salad" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
 
+<a href="https://www.buymeacoffee.com/c.mz" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-green.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+
 <a href="https://www.buymeacoffee.com/c.mz"><img src="https://img.buymeacoffee.com/button-api/?text=Buy me a salad&emoji=🥗&slug=c.mz&button_colour=40DCA5&font_colour=ffffff&font_family=Cookie&outline_colour=000000&coffee_colour=FFDD00" /></a>
 
 <a href="https://www.paypal.com/paypalme/christianmueller659">
